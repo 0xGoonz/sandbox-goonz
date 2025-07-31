@@ -8,4 +8,4 @@ This is a personal test repository for experimenting with basic GitHub features,
 - Preparing for future backend development (e.g., Firebase & Web3 stuff)
 
 ## Day Logs
-- Day 2: Initial setup and README update
+- Day 2: Initial setup and README update 
